@@ -4,7 +4,7 @@
 
 Lengkapi potongan kode pada folder `src/main/kotlin/soal` dan taruh kode anda pada folder `src/main/kotlin/contributors` agar dapat berjalan dengan baik.
 
-soal hasil running perhatikan issues or [here](https://github.com/winkom-unram/hacktoberfest_2019/issues) 
+soal dan contoh hasil running perhatikan issues or [here](https://github.com/winkom-unram/hacktoberfest_2019/issues) 
 
 ### Cara Berkontribusi:
 Sebelum memulai, silahkan beri Bintang.
