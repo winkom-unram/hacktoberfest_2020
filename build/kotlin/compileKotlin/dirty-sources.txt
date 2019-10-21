@@ -1,0 +1,4 @@
+C:\Users\LINOV\IdeaProjects\start-kotlin\src\main\kotlin\contributors\ImanudinSh.kts
+C:\Users\LINOV\IdeaProjects\start-kotlin\src\main\kotlin\contributors\new file.kt
+C:\Users\LINOV\IdeaProjects\start-kotlin\src\main\kotlin\soal\soal 1.kt
+C:\Users\LINOV\IdeaProjects\start-kotlin\src\main\kotlin\soal\soal 2.kt
