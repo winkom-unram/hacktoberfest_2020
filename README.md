@@ -13,4 +13,4 @@ Sebelum memulai, silahkan beri Bintang :).
 2. Clone ke lokal komputer anda
 3. Buka project dengan IntelliJ IDEA
 4. Buka direktory `src/main/kotlin/contributors`
-5. Tambahkan class baru (WAJIB KOTLIN), format penamaan: `NamaAnda`, atau `NamaAnda123`, dst.
+5. Tambahkan File baru (WAJIB KOTLIN), format penamaan: `NamaAnda`, atau `NamaAnda123`, dst.
