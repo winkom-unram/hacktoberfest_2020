@@ -1,10 +1,10 @@
 package soal
 
 fun main() {
-    val text = "First letter is".getFirstAndLast()
+    val text = "Kotlin".getFirstAndLast()
 
-    val firstChar = text["K"]
-    val lastChar = text["n"]
+    val firstChar = text["first"]
+    val lastChar = text["second"]
 
     // TODO 2
     println()
