@@ -7,9 +7,9 @@ fun main(){
     )
 
     // TODO 2
-    val name = user.getValue("")
-    val age = user.getValue("")
-    val address = user.getValue("")
+    val name = user.getValue("Febry")
+    val age = user.getValue("23")
+    val address = user.getValue("jl. Adi sucipto")
 
     // TODO 3
 
