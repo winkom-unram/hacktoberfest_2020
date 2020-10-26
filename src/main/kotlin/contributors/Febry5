@@ -1,0 +1,25 @@
+class Cat(private val name: String) {
+
+    var sleep: Boolean = false
+
+    fun get() = println("Function getter is called")
+
+    fun set() = println("Function setter is called")
+
+    fun toSleep() {
+        if (sleep) {
+            println("$name, sleep!")
+        } else {
+            println("$name, let's play!")
+        }
+    }
+}
+
+fun main() {
+
+    val gippy = Cat("Gippy")
+
+    gippy.toSleep()
+    gippy.sleep = true
+    gippy.toSleep()
+}
